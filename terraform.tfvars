@@ -7,4 +7,8 @@ resource_groups = {
     name     = "rg-monkey"
     location = "West Europe"
   }
+    rg3 = {
+    name     = "rg-gorilla"
+    location = "West Europe"
+  }
 }
