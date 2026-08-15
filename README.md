@@ -1,1 +1,1 @@
-# infra-monolithic_landing_zone_16-08-2026
+# azure-landing-zone-b18
